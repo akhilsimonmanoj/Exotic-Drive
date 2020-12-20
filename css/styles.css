@@ -1,0 +1,133 @@
+
+/* Title Section */
+
+h1,h2,h3,h4,h5,h5{
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.title-heading{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 4rem;
+  line-height: 1;
+
+}
+.title-header{
+  text-align: left;
+}
+.title-button{
+  margin: 5% 3% 5% 0;
+}
+
+.row{
+  padding: 50px 80px;
+}
+.navbar-brand{
+  font-family: "Pacifico";
+  font-size: 2rem;
+  font-weight: bold;
+}
+.nav-item{
+  font-size: 1.2rem;
+}
+#title .container-fluid{
+background-color: #fdb827;
+padding: 0 0;
+}
+
+/* Features Section */
+
+#features{
+  background-color: #393e46;
+  text-align: center;
+}
+#features h2{
+  color: #fff;
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 2rem;
+  padding: 1% 6%;
+}
+.features-title{
+  color: #fff;
+  line-height: 1.5;
+}
+p{
+  color: #8f8f8f;
+}
+
+/* Reviews Section */
+
+#reviews{
+  background-color: #fdb827;
+  text-align: center;
+}
+.review-text{
+  font-size: 3rem;
+  line-height: 1.5;
+  width: 75%;
+  margin: 0 auto;
+}
+.review-image{
+  width: 8% ;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* Pricing */
+
+#pricing{
+  background-color: #393e46;
+}
+#pricing h2{
+  color: #fff;
+  text-align: center;
+  padding: 2% 3% 0;
+}
+
+/* Newsletter */
+
+#newsletter{
+  background-color: #fdb827;
+  text-align: center;
+  padding: 5% 5% 7%;
+}
+.email-area{
+  line-height: 1.5;
+  padding-top: 3%;
+}
+.newsletter-button{
+  margin-bottom: 10px;
+}
+.social-icons{
+  padding: 3% 5%;
+}
+.fa-twitter{
+  color: #1da1f2;
+}
+.fa-twitter:hover{
+  color: #393e46;
+}
+.fa-facebook-f{
+  color: #3b5998;
+}
+.fa-facebook-f:hover{
+  color: #393e46;
+}
+.fa-instagram{
+  color: #c32aa3;
+}
+.fa-instagram:hover{
+  color: #393e46;
+}
+.social-icon{
+  padding: 0 5%;
+}
+
+/* Copyright */
+
+#footer{
+  background-color: #393e46;
+  text-align: center;
+  padding: 2%;
+}
